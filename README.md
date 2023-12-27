@@ -1,4 +1,12 @@
-Developed an automatic guitar tuning system using fuzzy logic, providing guitar players with an easy way to achieve their desired tones.
+#Developed an automatic guitar tuning system using fuzzy logic, providing guitar players with an easy way to achieve their desired tones.
+
+Things you need:
+1. OLED 128x64
+2. Voice Sensor MAX4466
+3. ESP32 or Any Microcontroller
+4. ESP32 Expansion Board (optional)
+5. Power Adapter 5V
+6. USB to Micro-USB
 
 Say Hi!~
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
