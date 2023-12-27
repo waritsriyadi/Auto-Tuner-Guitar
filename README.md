@@ -1,4 +1,4 @@
-#Developed an automatic guitar tuning system using fuzzy logic, providing guitar players with an easy way to achieve their desired tones.
+Developed an automatic guitar tuning system using fuzzy logic, providing guitar players with an easy way to achieve their desired tones.
 
 Things you need:
 1. OLED 128x64
