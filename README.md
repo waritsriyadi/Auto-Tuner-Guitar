@@ -1,4 +1,4 @@
-![wiringSCA](https://github.com/waritsriyadi/Auto-Tuner-Guitar/assets/125733071/64a803c2-ed39-4b9b-95d2-add90462caaf)Developed an automatic guitar tuning system using fuzzy logic, providing guitar players with an easy way to achieve their desired tones.
+Developed an automatic guitar tuning system using fuzzy logic, providing guitar players with an easy way to achieve their desired tones.
 
 Things you need:
 1. OLED 128x64
