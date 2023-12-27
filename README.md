@@ -11,6 +11,9 @@ Things you need:
 WIRING DIAGRAM 
 ![wiringSCA](https://github.com/waritsriyadi/Auto-Tuner-Guitar/assets/125733071/4b2e9311-b6de-4f07-aa98-4da57c2a708a)
 
+Nozzle for ULN2003 Motor
+![image](https://github.com/waritsriyadi/Auto-Tuner-Guitar/assets/125733071/c5b3a6a5-5eb5-4109-a61a-b5c977ef1d2d)
+
 
 Say Hi!~
 
